@@ -99,7 +99,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_backend&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/utong_backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_scheduler&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/utong_scheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suhyun9764&repo=urjung_main&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/suhyun9764/urjung_main)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=planit&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/planit)
 
