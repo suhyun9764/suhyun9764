@@ -113,6 +113,5 @@
 
 **⭐️ Don't forget to star my repositories if you find them interesting!**
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2D333B&height=80&section=footer)
 
 </div>
