@@ -29,42 +29,42 @@
   suhyun9764@naver.com
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=10B981)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=10B981)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=10B981)
-![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-0D1117?style=for-the-badge&logo=spring&logoColor=10B981)
-![OAuth2](https://img.shields.io/badge/OAuth2-0D1117?style=for-the-badge&logo=oauth&logoColor=10B981)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=10B981)
-![MyBatis](https://img.shields.io/badge/MyBatis-0D1117?style=for-the-badge&logoColor=10B981)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
 
 ### LLM & AI Integration
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0D1117?style=for-the-badge&logo=google&logoColor=10B981)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=10B981)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Databases & Cache
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=10B981)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=10B981)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=10B981)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=10B981)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=10B981)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=10B981)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools & Collaboration
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=10B981)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=10B981)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=10B981)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### Testing
-![nGrinder](https://img.shields.io/badge/nGrinder-0D1117?style=for-the-badge&logoColor=10B981)
-![Spring Test](https://img.shields.io/badge/Spring%20Test-0D1117?style=for-the-badge&logo=spring&logoColor=10B981)
-![JUnit5](https://img.shields.io/badge/JUnit5-0D1117?style=for-the-badge&logo=junit5&logoColor=10B981)
+![nGrinder](https://img.shields.io/badge/nGrinder-4CAF50?style=for-the-badge)
+![Spring Test](https://img.shields.io/badge/Spring%20Test-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
 
 ---
 
