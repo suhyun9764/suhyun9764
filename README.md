@@ -2,15 +2,15 @@
 
 <div align="center">
   
-<!-- 깔끔한 배너 헤더 -->
+<!-- 다크 배너 헤더 -->
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2D333B&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=E6EDF3)
 
-<!-- 초록색 타이핑 효과 -->
+<!-- 네온 에메랄드 타이핑 효과 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Problem+Solver)](https://git.io/typing-svg)
 
----
 </div>
 
+---
 
 ## 🚀 About Me
 
@@ -28,43 +28,43 @@
 - 📫 **연락처**  
   suhyun9764@naver.com
 
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=10B981)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=10B981)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=10B981)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-0D1117?style=for-the-badge&logo=spring&logoColor=10B981)
+![OAuth2](https://img.shields.io/badge/OAuth2-0D1117?style=for-the-badge&logo=oauth&logoColor=10B981)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=10B981)
+![MyBatis](https://img.shields.io/badge/MyBatis-0D1117?style=for-the-badge&logoColor=10B981)
 
 ### LLM & AI Integration
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0D1117?style=for-the-badge&logo=google&logoColor=10B981)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=10B981)
 
 ### Databases & Cache
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=10B981)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=10B981)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=10B981)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=10B981)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=10B981)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=10B981)
 
 ### Tools & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=10B981)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=10B981)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=10B981)
 
 ### Testing
-![nGrinder](https://img.shields.io/badge/nGrinder-4CAF50?style=for-the-badge)
-![Spring Test](https://img.shields.io/badge/Spring%20Test-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![nGrinder](https://img.shields.io/badge/nGrinder-0D1117?style=for-the-badge&logoColor=10B981)
+![Spring Test](https://img.shields.io/badge/Spring%20Test-0D1117?style=for-the-badge&logo=spring&logoColor=10B981)
+![JUnit5](https://img.shields.io/badge/JUnit5-0D1117?style=for-the-badge&logo=junit5&logoColor=10B981)
 
 ---
 
@@ -73,7 +73,6 @@
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhyun9764)](https://solved.ac/suhyun9764/)
-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=suhyun9764&theme=warm)
 
 </div>
@@ -84,11 +83,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhyun9764&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=C9D1D9&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhyun9764&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=10B981&text_color=C9D1D9&title_color=10B981)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun9764&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun9764&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhyun9764&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhyun9764&theme=dark&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=10B981&sideNums=C9D1D9)
 
 </div>
 
@@ -98,11 +97,11 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_backend&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/JSeungBeom/utong_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_backend&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/utong_backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_scheduler&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/JSeungBeom/utong_scheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_scheduler&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/utong_scheduler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=planit&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/JSeungBeom/planit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=planit&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/planit)
 
 </div>
 
@@ -110,10 +109,10 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=JSeungBeom&color=58A6FF&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=JSeungBeom&color=10B981&style=for-the-badge)
 
 **⭐️ Don't forget to star my repositories if you find them interesting!**
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2D333B&height=80&section=footer)
 
 </div>
