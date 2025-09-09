@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 **학력**  
-  대전대학교 · 정보보안학과 · 2025년 8월 졸업 예정  
+  대전대학교 · 정보보안학과 졸업
 
 - 📚 **교육 이수**  
   - LG U+ 유레카 백엔드 과정 (2025.01 ~ 2025.08)  
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeungBeom&repo=utong_backend&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/JSeungBeom/utong_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suhyun9764&repo=utong_back&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/suhyun9764/utong_back)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suhyun9764&repo=urjung_main&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=10B981)](https://github.com/suhyun9764/urjung_main)
 
